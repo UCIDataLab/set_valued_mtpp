@@ -1,0 +1,10 @@
+.Python
+.idea/
+.ipynb_checkpoints/
+.git/
+*__pycache__/
+*.DS_Store
+*checkpoints/
+*results/
+log/
+plot/
